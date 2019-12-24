@@ -10,7 +10,7 @@
 7. How do you reverse an array in java?
 
 ## Linked List Interview Questions
-1. Hod do you find the middle element of singly linked list in one pass?
+1. How do you find the middle element of singly linked list in one pass?
 2. How do you check if a given linked list conatins a cycle?
 3. How do you reverse a linked list?
 4. How do you reverse a linked list without recurssion?
@@ -23,7 +23,7 @@
 2. How do you check if two strings are anagram of each other?
 3. How do you print the first non-repeated character from a string?
 4. How can given string can be reversed using recursion?
-5. How do you chech if given string contains only digits?
+5. How do you check if given string contains only digits?
 6. How do you count the numbers of vowels and consonants in a given string?
 7. How do you count of the occurance of the a given character in a string?
 8. How do you find all permutaion of given string?
